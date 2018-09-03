@@ -9,7 +9,8 @@ ref:https://github.com/sam-ke/idCardOcr
 效果并不是很好。汉字部分识别较弱，需要不断尝试二值化阈值参数及其它参数。
 
 # Tools
-首先下载tesseract-ocr工具，wins下载地址:https://digi.bib.uni-mannheim.de/tesseract/，运行安装(安装过程勾选语言包)。记住安装目录（一般是 C:\Program Files (x86)\Tesseract-OCR\tesseract.exe）
+首先下载tesseract-ocr工具，wins下载地址:https://digi.bib.uni-mannheim.de/tesseract/ 
+运行安装(安装过程勾选语言包)。记住安装目录（一般是 C:\Program Files (x86)\Tesseract-OCR\tesseract.exe）
 
 - python3
 
